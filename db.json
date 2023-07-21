@@ -10,4 +10,7 @@
               {"familia": "ENERGETICOS", "cor":"#ff0000"},
               {"familia": "ISOTONICOS", "cor":"#ff0000"}
       ],
+      "empresa": {
+            "name": "São Rafael"
+      }
 }
