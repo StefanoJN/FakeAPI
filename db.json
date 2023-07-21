@@ -4,6 +4,10 @@
         {"cdd": "AMBEV", "grupo": "NÃO ALCOÓLICOS", "cor": "#ffd900"},
         {"cdd": "MARKETPLACE", "grupo":"ALCOÓLICOS", "cor": "#000000"},
         {"cdd": "MARKETPLACE", "grupo": "NÃO ALCOÓLICOS", "cor": "#aaaaaa"}
-    ]
-
+    ],
+        "familias": [
+        {"familia": "REFRIGERANTES", "cor":"#ff0000"},
+        {"familia": "ENERGETICOS", "cor":"#ff0000"},
+        {"familia": "ISOTONICOS", "cor":"#ff0000"}
+    ],
 }
