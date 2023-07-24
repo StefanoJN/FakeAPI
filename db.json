@@ -2,8 +2,8 @@
       "grupos": [
             {"cdd":  "AMBEV", "grupo": "ALCOÓLICOS", "cor": "#ff0000"},
             {"cdd": "AMBEV", "grupo": "NÃO ALCOÓLICOS", "cor": "#ffd900"},
-            {"cdd": "MARKETPLACE", "grupo":"ALCOÓLICOS", "cor": "#000000"},
-            {"cdd": "MARKETPLACE", "grupo": "NÃO ALCOÓLICOS", "cor": "#aaaaaa"}
+            {"cdd": "MARKETPLACE", "grupo":"ALCOÓLICOS", "cor": "#ff0000"},
+            {"cdd": "MARKETPLACE", "grupo": "NÃO ALCOÓLICOS", "cor": "#ffd900"}
       ],
       "familias": [
             {"familia": "REFRIGERANTES", "cor":"#ff0000"},
