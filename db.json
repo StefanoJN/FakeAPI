@@ -1,16 +1,11 @@
 {
-      "grupos": [
-            {"cdd":  "AMBEV", "grupo": "ALCOÓLICOS", "cor": "#ff0000"},
-            {"cdd": "AMBEV", "grupo": "NÃO ALCOÓLICOS", "cor": "#ffd900"},
-            {"cdd": "MARKETPLACE", "grupo":"ALCOÓLICOS", "cor": "#000000"},
-            {"cdd": "MARKETPLACE", "grupo": "NÃO ALCOÓLICOS", "cor": "#aaaaaa"}
-      ],
-      "familias": [
-            {"familia": "REFRIGERANTES", "cor":"#ff0000"},
-              {"familia": "ENERGETICOS", "cor":"#ff0000"},
-              {"familia": "ISOTONICOS", "cor":"#ff0000"}
-      ],
-      "empresa": {
-            "name": "São Rafael"
-      }
+  "Products": {
+	"code": 123456,
+      "family":[
+			{"type": "ALCOÓLICOS", "factory": "AMBEV", "grup": "CERVEJA", "literage": "600ML", "color": "#ff0000"}
+		   ],
+	"information":[
+			      {"description": "Skol", "ballast": 100, "pallet": 600, "EAN": 123, "image": "", "color": "#ff0000"}
+			  ]
+		}
 }
