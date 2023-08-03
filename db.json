@@ -1,5 +1,4 @@
-{
-  "Products": {
+"Products": {
 	"code": 123456,
       "family":[
 			{"type": "ALCOÓLICOS", "factory": "AMBEV", "grup": "CERVEJA", "literage": "600ML", "color": "#ff0000"}
@@ -7,5 +6,5 @@
 	"information":[
 			      {"description": "Skol", "ballast": 100, "pallet": 600, "EAN": 123, "image": "", "color": "#ff0000"}
 			  ]
-		}
-}
+	 }
+
